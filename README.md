@@ -4,7 +4,7 @@ Dotfiles and an install/update script:
 
 ```
 export LAPTOP="$HOME/laptop"
-git clone https://github.com/croaky/laptop.git $LAPTOP
+git clone https://github.com/justinkuntz/laptop.git $LAPTOP
 cd $LAPTOP
 ./laptop.sh
 ```
